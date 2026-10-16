@@ -120,4 +120,4 @@ Exact clock settings, FPGA part number, AXI address mapping, and build commands 
 
 ## Author
 
-Add your name, institution, and project date here.
+R Rahul Electrical engineering.
